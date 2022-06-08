@@ -20,7 +20,6 @@ html,body{
 .logo-contenedor{
     width: 100%;
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     margin: 20px;
@@ -28,4 +27,22 @@ html,body{
 
 .logo{
     height: 350px;
+}
+
+#contenedor-principal{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.contenedor-contador{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
 }
